@@ -1,11 +1,26 @@
 h1 {
 text-align: center;
 }
-h3 {
+/* h3 {
     text-align: center;
-}
+} */
 h2 p{
 
     text-align: center;
 
+}
+.container{
+    width: 940px;
+    margin: 0 auto;
+    /* background-color:red; */
+
+}
+.tcalender{
+    background-color: lightgrey;
+    justify-content: left 
+   
+}
+
+ .slogan {
+    text-align: center;
 }
